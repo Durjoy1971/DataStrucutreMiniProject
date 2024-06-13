@@ -1,5 +1,5 @@
 # DataStrucutreMiniProject
-This is a Data Structure Lab Project Where The Task were given by sir.  The Task Was Generate Random Numbers and Display - Find - Delete Without using built in functions. I have used some animations to show the whole process. To sort the random numbers, i have used Bubble Sort, To Find the number, i have used Binary Search Technique. 
+This is a Data Structure Lab Project Where The Task were given by sir.  The Task Was Generate Random Numbers and Implement ( Display - Find - Delete - Search ) Operations Without using built in functions. I have used some animations to show the whole process. To sort the random numbers, i have used Bubble Sort, To Find the number, i have used Binary Search Technique. 
 
 ![image](https://github.com/Durjoy1971/DataStrucutreMiniProject/assets/91456847/189d4e31-59c6-40fa-a78e-13a7fdc640a1)
 ![image](https://github.com/Durjoy1971/DataStrucutreMiniProject/assets/91456847/b106c72b-5a1e-4de7-9fab-6428d5cd6250)
